@@ -15,7 +15,7 @@ python main.py
 
 --- 
 
-If you don't have a ChatGPT Token and want to try it out, you can directly visit: https://chatgpt.com and click on `免费体验`
+If you don't have a ChatGPT Token and want to try it out, you can directly visit: https://chatgpt.dairoot.cn and click on `免费体验`
 
 
 <img src="./docs/ty.jpg" alt="体验" width="450"/>
